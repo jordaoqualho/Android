@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MyApplication</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Our">to our brand new app!</string>
+    <string name="login">Login</string>
+    <string name="sing">Registrar-se</string>
+    <string name="username">usuário</string>
+    <string name="password">senha</string>
+    <string name="next">next</string>
+    <string name="voltar">voltar</string>
 </resources>
