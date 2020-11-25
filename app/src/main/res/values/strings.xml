@@ -6,6 +6,7 @@
     <string name="sing">Registrar-se</string>
     <string name="username">usuário</string>
     <string name="password">senha</string>
-    <string name="next">next</string>
+    <string name="next">Fazer Login</string>
     <string name="voltar">voltar</string>
+    <string name="abrir_mapa">Abrir mapa</string>
 </resources>

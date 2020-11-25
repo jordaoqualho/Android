@@ -23,7 +23,21 @@
         app:layout_constraintVertical_bias="0.311" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/mapButton"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="316dp"
+        android:backgroundTint="#3F51B5"
+        android:fontFamily="sans-serif-thin"
+        android:text="@string/abrir_mapa"
+        android:textColor="#FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <Button
+        android:id="@+id/loginButton"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="264dp"
